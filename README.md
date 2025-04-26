@@ -48,7 +48,6 @@ All of these issues gradually resolve themselves with training, so let's get to 
 
 - Make backup copies of `library/strategy_flux.py` and `library/flux_utils.py`, then copy over the `strategy_flux.py` and `flux_utils.py` from this repository in their place.
 
-- Copy over the `tokenizer.json` from this repository to the `tests` directory.
 ### 6. Train the model
 
 You can now point Kohya's scripts to the new T5 model path, and train in the same manner as usual. A couple of notes:

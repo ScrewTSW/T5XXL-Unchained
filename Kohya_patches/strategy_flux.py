@@ -18,7 +18,7 @@ logger = logging.getLogger(__name__)
 
 CLIP_L_TOKENIZER_ID = "openai/clip-vit-large-patch14"
 #T5_XXL_TOKENIZER_ID = "google/t5-v1_1-xxl"
-T5_XXL_TOKENIZER_ID = "tests"
+T5_XXL_TOKENIZER_ID = "Kaoru8/T5XXL-Unchained-Tokenizer"
 
 
 class FluxTokenizeStrategy(TokenizeStrategy):
